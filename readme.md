@@ -4,7 +4,7 @@
 
 With 87,000 traffic requests from more than 5,000 users per day, this playlist is the most popular free Android TV IPTV playlist for free-to-air Malaysian TV channels
 
-`Tested with: Android TV (NOT Chinese Android boxes, but certified Android TV) with TiviMate, TVIrl, Apple TV with MrMC, certain Kodi add-ons can load our playlist too`
+`Tested with: Android TV with TiviMate, TVIrl, Apple TV with MrMC, certain Kodi add-ons can load our playlist too. WE DO NOT RECOMMEND USING CRACKED/MODDED APKs TO LOAD OUR PLAYLIST AND EPG.`
 
 | |Links|
 |-|-|
