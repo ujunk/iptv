@@ -4,6 +4,8 @@
 
 as of 11 July 2020
 
+`RTM streams are geo-locked and can only be accessed from Malaysian IP addresses`
+
 |Channel|EPG|Channel|EPG|Channel|EPG|
 |-|-|-|-|-|-|
 |TV1|Y|BERNAMA|Y|ABC Australia|Y|
