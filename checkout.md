@@ -2,4 +2,6 @@
 
 Our system will email a secure EPG link within 48 hours. 
 
-If you did not use a PayPal account to checkout e.g via debit card/credit card, please immediately send a screenshot of your donation receipt along with your email address for the EPG link to [https://t.me/helpfreeview](https://t.me/helpfreeview).
+If you used a debit card/credit card for the donation, please immediately forward the PayPal confirmation email to help.freeview@gmail.com.
+
+In case you have any other questions please do not hesitate to write to [https://t.me/helpfreeview](https://t.me/helpfreeview).
