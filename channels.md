@@ -17,7 +17,7 @@ as of 11 July 2020
 |Drama Sangat|Y|CGTN|Y|PBS|Y|
 |OKEY|Y|DW|Y|PBS Kids|Y|
 |Naura|Y|France24|Y|Hello|Y|
-|TVIKIM|N|NHK World Japan|Y|
+|TV Alhijrah|Y|NHK World Japan|Y|
 |Astro Go Shop|Y|RT|Y|
 |Channel 5|Y|Sky News|Y|
 |Channel 8|Y|TRT World|Y|
