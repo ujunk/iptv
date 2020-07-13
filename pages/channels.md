@@ -1,4 +1,4 @@
-[Home](https://freeview.github.io/iptv) | [Channels list](https://freeview.github.io/iptv/channels.html) | [Plans](https://trello.com/b/Tvem1YJd/malaysia-freeview-iptv) | [Contact us](https://freeview.github.io/iptv/contact.html)
+[Home](https://freeview.github.io/iptv) | [Channels list](https://freeview.github.io/iptv/pages/channels.html) | [Contact us](https://freeview.github.io/iptv/contact.html) | [How to load the playlist](https://freeview.github.io/iptv/pages/howto.html) | [Plans and updates](https://trello.com/b/Tvem1YJd/malaysia-freeview-iptv) 
 
 ### Channels list
 
