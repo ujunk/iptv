@@ -1,4 +1,4 @@
-[Home](https://freeview.github.io/iptv) | [Channels list](https://freeview.github.io/iptv/pages/channels.html) | [Contact us](https://freeview.github.io/iptv/contact.html) | [How to load the playlist](https://freeview.github.io/iptv/pages/howto.html) | [Plans and updates](https://trello.com/b/Tvem1YJd/malaysia-freeview-iptv) 
+[Home](https://freeview.github.io/iptv) | [Channels list](https://freeview.github.io/iptv/pages/channels.html) | [Contact us](https://freeview.github.io/iptv/pages/contact.html) | [How to load the playlist](https://freeview.github.io/iptv/pages/howto.html) | [Plans and updates](https://trello.com/b/Tvem1YJd/malaysia-freeview-iptv) 
 
 Please use the M3U playlist on the [homepage](https://freeview.github.io/iptv) and EPG (if you have received it in your mailbox).
 
