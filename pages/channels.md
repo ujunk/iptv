@@ -28,3 +28,7 @@ as of 11 July 2020
 |CBeebies|Y|RedBull TV|Y|
 |Kabillion|N|RTM Sports HD|Y|
 |Astro Awani|Y|beIN SPORTS XTRA|Y|
+
+Did you know the most watched channel in our playlist is TV3?
+
+![image](https://freeview.github.io/iptv/assets/chart.png)
