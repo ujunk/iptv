@@ -13,8 +13,8 @@ Since December 2018, with an average of 87,000 traffic requests from more than 5
 
 [What is EPG?](https://en.wikipedia.org/wiki/Electronic_program_guide)
 
-[See how to install the playlist here!](https://freeview.github.io/iptv/pages/howto.html)
+[See how to install the playlist here](https://freeview.github.io/iptv/pages/howto.html)
 
-Support our cause by donating! This is also a one time donation to access EPG.
+Support our cause by donating. This is also a one time donation to access EPG.
 
 [<img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" width="150">](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3GFLY2MLMVRJG)
