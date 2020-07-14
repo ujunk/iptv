@@ -6,3 +6,5 @@
 * `help.freeview@gmail.com`
 
 For help and suggestions. Replies can take up to one week.
+
+Communications only go through the above links, WE DO NOT HAVE ANY FB GROUP OR YOUTUBE CHANNELS. 
