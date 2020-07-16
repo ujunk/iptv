@@ -147,6 +147,3 @@ http://freeview.mywire.org:9090/streams/rtmsports.m3u8|Referer=https://myklik.rt
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://freeview.github.io/logos/tennis.png",Tennis Channel
 http://freeview.mywire.org:9090/streams/tennis.m3u8
-
-#EXTINF:-1,Test Dash Stream
-https://video.fkul15-1.fna.fbcdn.net/hvideo-frc-atn/s2/_nc_cat-1/v/runcHJFyv0Z4iZBpRa9a2/live-dash/dash-abr720align/10159330009449305.mpd?_nc_rl=AfAw3ECZzbaUv4Ly&ms=m_CT&oh=bbfd5b67fb349628cd11eaf4d3abd47c&oe=5F127002
