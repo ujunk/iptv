@@ -11,12 +11,12 @@ Since December 2018, with an average of 87,000 traffic requests from more than 5
 |Playlist|`https://freeview.github.io/iptv/playlist/tv.m3u`|
 |EPG|*Due to abuse, only donators have access to EPG*|
 
-*Streams come from official streaming sources and are updated every 30 minutes.*
+*Streams come from official streaming sources and are updated hourly.*
 
-[What is EPG?](https://en.wikipedia.org/wiki/Electronic_program_guide)
+Other resources:
+- [What is EPG?](https://en.wikipedia.org/wiki/Electronic_program_guide)
+- [How to install the playlist?](https://freeview.github.io/iptv/pages/howto.html)
 
-[How to install the playlist?](https://freeview.github.io/iptv/pages/howto.html)
-
-Support our cause by donating. This is also a one time donation to access EPG.
+Support our cause by donating, and get access to our EPG.
 
 [<img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" width="150">](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3GFLY2MLMVRJG)
