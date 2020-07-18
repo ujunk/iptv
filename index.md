@@ -11,7 +11,7 @@ Since December 2018, with an average of 87,000 traffic requests from more than 5
 |Playlist|`https://freeview.github.io/iptv/playlist/tv.m3u`|
 |EPG|*Due to abuse, only donators have access to EPG*|
 
-*Streams come from official streaming sources and are updated every 30 minutes*
+*Streams come from official streaming sources and are updated every 30 minutes.*
 
 [What is EPG?](https://en.wikipedia.org/wiki/Electronic_program_guide)
 
