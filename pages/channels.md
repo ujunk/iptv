@@ -8,7 +8,7 @@ News/update:
 > * 8TV
 > * TV Alhijrah
 > 
-> 19 July 2020: Domain change for security. Please reload your playlist.
+> 19 July 2020: Domain change for security. Please reload your playlist. Also `tv.m3u` has been mirrored to root directory for shorter URL.
 
 RTM streams are geo-locked and can only be accessed from Malaysian IP addresses.
 
