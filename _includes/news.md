@@ -1,5 +1,3 @@
-Thank you to our 329 donators who are making this possible!
-
 ```
 20 July 2020
 Offline channels will be redirected to a new offline screen. 
