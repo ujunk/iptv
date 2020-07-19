@@ -1,6 +1,6 @@
 ```
 20 July 2020
-Offline sources will be redirected to a new offline screen. 
+Offline channels will be redirected to a new offline screen. 
 Nothing can be done for offline sources until the source gets online.
 
 19 July 2020
