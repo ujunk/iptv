@@ -7,6 +7,8 @@ News/update:
 > * NTV7
 > * 8TV
 > * TV Alhijrah
+> 
+> 19 July 2020: Domain change for security. Please reload your playlist.
 
 RTM streams are geo-locked and can only be accessed from Malaysian IP addresses.
 
