@@ -23,6 +23,6 @@ Other resources:
 - [What is EPG?](https://en.wikipedia.org/wiki/Electronic_program_guide)
 - [How to install the playlist?](https://freeview.github.io/iptv/pages/howto.html)
 
-Support our cause by donating, and get access to our EPG.
+Support our cause by donating to our PayPal, and get access to our EPG. ([Why PayPal?](https://freeview.github.io/iptv/pages/paypal.html))
 
 [<img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" width="150">](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3GFLY2MLMVRJG)
