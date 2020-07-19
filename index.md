@@ -8,7 +8,7 @@ Since December 2018, with an average of 87,000 traffic requests from more than 5
 
 | |Links|
 |-|-|
-|Playlist|`https://freeview.github.io/iptv/playlist/tv.m3u`|
+|Playlist|`https://freeview.github.io/iptv/tv.m3u`|
 |EPG|*Due to abuse, only donators have access to EPG*|
 
 *Streams come from official streaming sources and are updated hourly.*
