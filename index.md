@@ -8,7 +8,7 @@ Since December 2018, with an average of 87,000 traffic requests from more than 5
 
 **Latest news**
 
-{% include_relative news.md %}
+{% include news.md %}
 
 **Resources**
 
