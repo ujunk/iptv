@@ -2,9 +2,13 @@
 
 ### Channels list
 
-as of 11 July 2020
+News/update:
+> 20 July 2020: Current sources are offline or having intermittent connection issues:
+> * NTV7
+> * 8TV
+> * TV Alhijrah
 
-`RTM streams are geo-locked and can only be accessed from Malaysian IP addresses`
+RTM streams are geo-locked and can only be accessed from Malaysian IP addresses.
 
 |Channel|EPG|Channel|EPG|Channel|EPG|
 |-|-|-|-|-|-|
