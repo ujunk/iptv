@@ -1,9 +1,7 @@
 ```
 20 July 2020
-Current sources are offline or having intermittent connection issues:
-* NTV7
-* 8TV
-* TV Alhijrah
+Offline sources will be redirected to a new offline screen. 
+Nothing can be done for offline sources until the source gets online.
 
 19 July 2020
 Domain change for security. Please reload your playlist. 
