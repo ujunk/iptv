@@ -10,11 +10,11 @@ RTM streams are geo-locked and can only be accessed from Malaysian IP addresses.
 |TV2|Y|Berita RTM|Y|PeopleTV|N|
 |TV3|Y|Channel NewsAsia|Y|Outside TV|Y|
 |NTV7|Y|Al Jazeera|Y|Tennis Channel|Y|
-|8TV|Y|Arirang TV|Y|Real Madrid TV|N|
+|8TV|Y|Arirang TV|Y|PBS Kids|Y|
 |TV9|Y|Bloomberg|Y|Olympic Channel|Y|
-|Drama Sangat|Y|CGTN|Y|PBS|Y|
-|OKEY|Y|DW|Y|PBS Kids|Y|
-|Naura|Y|France24|Y|Hello|Y|
+|Drama Sangat|Y|CGTN|Y|
+|OKEY|Y|DW|Y|
+|Naura|Y|France24|Y|
 |TV Alhijrah|Y|NHK World Japan|Y|
 |Astro Go Shop|Y|RT|Y|
 |Channel 5|Y|Sky News|Y|
@@ -22,11 +22,7 @@ RTM streams are geo-locked and can only be accessed from Malaysian IP addresses.
 |Channel U|Y|CGTN Documentary|Y|
 |Suria|Y|NASA TV|Y|
 |Vasantham|Y|Comedy Central|Y|
-|RTB Sukmaindera|N|	CONtv|N|
+|RTB Sukmaindera|N|Hello|Y|
 |CBeebies|Y|RedBull TV|Y|
 |Kabillion|N|RTM Sports HD|Y|
 |Astro Awani|Y|beIN SPORTS XTRA|Y|
-
-Did you know the most watched channel in our playlist is TV3?
-
-![image](https://freeview.github.io/iptv/assets/chart.png)
