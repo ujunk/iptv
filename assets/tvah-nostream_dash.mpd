@@ -8,7 +8,7 @@
  <Period duration="PT0H0M20.000S">
   <AdaptationSet segmentAlignment="true" maxWidth="1920" maxHeight="1080" maxFrameRate="25" par="16:9" lang="und" startWithSAP="1">
    <Representation id="1" mimeType="video/mp4" codecs="avc1.640028" width="1920" height="1080" frameRate="25" sar="1:1" bandwidth="110006">
-    <BaseURL>https://freeview.github.io/iptv/assets/tvah-nostream.mp4</BaseURL>
+    <BaseURL>tvah-nostream.mp4</BaseURL>
     <SegmentList timescale="12800" duration="256000">
      <Initialization range="0-880"/>
      <SegmentURL mediaRange="881-281713" indexRange="881-1152"/>
