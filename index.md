@@ -15,7 +15,7 @@
 |Playlist|`https://freeview.github.io/iptv/tv.m3u`|
 |EPG|*Due to abuse, only donators have access to EPG*|
 
-*Streams come from official streaming sources and are updated hourly.*
+*Streams come from official streaming sources and are updated hourly, EPG contains 7 days of data and updated every day.*
 
 Other resources:
 - [What is EPG?](https://en.wikipedia.org/wiki/Electronic_program_guide)
