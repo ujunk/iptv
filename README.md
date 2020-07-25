@@ -1,1 +1,1 @@
-You are viewing the repository. Please head to our homepage at https://freeview.github.io to view more resources.
+You are viewing the repository. Please head to our homepage at https://git.io/freeview to view more resources.
