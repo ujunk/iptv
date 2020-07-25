@@ -1,24 +1,17 @@
-[Home](https://freeview.github.io/iptv) | [Channels list](https://freeview.github.io/iptv/pages/channels.html) | [Contact us](https://freeview.github.io/iptv/pages/contact.html) | [How to load the playlist](https://freeview.github.io/iptv/pages/howto.html) | [Plans and updates](https://trello.com/b/Tvem1YJd/malaysia-freeview-iptv) 
+[Home](https://freeview.github.io/iptv) | [Contact us](https://freeview.github.io/iptv/pages/contact.html) | [How to install the playlist?](https://freeview.github.io/iptv/pages/howto.html)
 
 ### Home
 
-**Malaysia Freeview IPTV free-to-air channels playlist**  ![GitHub last commit](https://img.shields.io/github/last-commit/freeview/iptv)
-
-**Latest news**
-
-{% include news.md %}
-
-**Resources**
+**Malaysia Freeview IPTV free-to-air channels playlist** 
 
 | |Links|
 |-|-|
-|Playlist|`https://fvtv.mywire.org/tv.m3u`|
-|EPG|*Due to abuse, only donators have access to EPG*|
+|Playlist URL|`https://fvtv.mywire.org/tv.m3u`(Github links will be removed in 2021)|
+|EPG URL|*Due to abuse, only donators have access to EPG*| 
 
 *Notes:*
-- *Streams come from official streaming sources and are updated hourly*
+- *Streams are updated every hour*
 - *EPG contains 7 days of data and updated every day*
-- *Github M3U links will still work until end of 2020*
 
 Other resources:
 - [What is EPG?](https://en.wikipedia.org/wiki/Electronic_program_guide)
