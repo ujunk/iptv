@@ -6,11 +6,11 @@
 
 *Links:*
 - Playlist URL: `https://fvtv.mywire.org/tv.m3u` (Github links will be removed in 2021)
-- EPG URL: `https://fvtv.mywire.org/tv.xml.gz?secret={XXXXXX}` (EPG protected due to abuse)
+- EPG URL: `https://fvtv.mywire.org/tv.xml.gz` (EPG protected due to abuse)
 
 *Notes:*
-- *Streams are updated every hour*
-- *EPG contains 7 days of data and updated every day*
+- Streams are updated every hour
+- EPG contains 7 days of data and updated every day
 
 Other resources:
 - [What is EPG?](https://en.wikipedia.org/wiki/Electronic_program_guide)
