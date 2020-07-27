@@ -9,6 +9,7 @@
 - EPG URL: `https://fvtv.mywire.org/tv.xml.gz` (EPG protected due to abuse)
 
 *Notes:*
+- WILL NOT WORK IN KODI
 - Streams are updated every hour
 - EPG contains 7 days of data and updated every day
 
