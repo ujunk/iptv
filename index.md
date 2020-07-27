@@ -6,11 +6,11 @@
 
 *Links:*
 - Playlist URL: https://fvtv.mywire.org/tv.m3u 
-- EPG URL: https://fvtv.mywire.org/tv.xml.gz?secret={SECRET_TOKEN} (Replace {SECRET_TOKEN} with your donators secret token)
+- EPG URL: https://fvtv.mywire.org/tv.xml.gz
 
 *Notes:*
 - WILL NOT WORK IN KODI
-- EPG is protected due to abuse by irresponsible parties
+- EPG is protected due to abuse by irresponsible parties, only donators will be able to access
 - Github links (*.github.io/github.com) will be removed in 2021
 - Streams are updated every hour
 - EPG contains 7 days of data and updated every day
