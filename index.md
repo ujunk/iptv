@@ -10,6 +10,7 @@
 
 *Notes:*
 - WILL NOT WORK IN KODI
+- EPG is protected due to abuse by irresponsible parties
 - Github links (*.github.io/github.com) will be removed in 2021
 - Streams are updated every hour
 - EPG contains 7 days of data and updated every day
