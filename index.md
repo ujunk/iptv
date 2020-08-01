@@ -5,10 +5,16 @@
 **Freeview IPTV free-to-air channels playlist** 
 
 *Malaysia Channels Links:*
+
+{% include youtubePlayer.html id="lJZzqzedUZw" %}
+
 - Playlist URL: https://fvtv.mywire.org/tv.m3u 
 - EPG URL: https://fvtv.mywire.org/tv.xml.gz (Donators only)
 
 *Indonesia Channels Links:*
+
+{% include youtubePlayer.html id="tBOjNy1jI4s" %}
+
 - Playlist URL: https://fvtv.mywire.org/id/tv.m3u
 - EPG URL: https://fvtv.mywire.org/id/tv.xml.gz (Donators only)
 
