@@ -10,7 +10,7 @@
 
 *Indonesia Channels Links:*
 - Playlist URL: https://fvtv.mywire.org/id/tv.m3u
-- EPG URL: Coming soon
+- EPG URL: https://fvtv.mywire.org/id/tv.xml.gz (Donators only)
 
 *Notes:*
 - Github links (*.github.io/github.com) will be removed in 2021
