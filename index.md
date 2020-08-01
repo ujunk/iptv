@@ -2,11 +2,15 @@
 
 ### Home
 
-**Malaysia Freeview IPTV free-to-air channels playlist** 
+**Freeview IPTV free-to-air channels playlist** 
 
-*Links:*
+*Malaysia Channels Links:*
 - Playlist URL: https://fvtv.mywire.org/tv.m3u 
 - EPG URL: https://fvtv.mywire.org/tv.xml.gz (Donators only)
+
+*Indonesia Channels Links:*
+- Playlist URL: https://fvtv.mywire.org/id/tv.m3u
+- EPG URL: Coming soon
 
 *Notes:*
 - Github links (*.github.io/github.com) will be removed in 2021
