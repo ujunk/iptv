@@ -8,8 +8,8 @@
 
 {% include youtubePlayer.html id="lJZzqzedUZw" %}
 
-- Playlist URL: https://fvtv.mywire.org/tv.m3u 
-- EPG URL: https://fvtv.mywire.org/tv.xml.gz (Donators only)
+- Playlist URL: https://fvtv.mywire.org/my/tv.m3u 
+- EPG URL: https://fvtv.mywire.org/my/tv.xml.gz (Donators only)
 
 *Indonesia Channels Links:*
 
@@ -20,6 +20,7 @@
 
 *Notes:*
 - Github links (*.github.io/github.com) will be removed in 2021
+- If you are using old mywire.org links, they will always be valid so there is no need to change
 - Streams are updated every hour
 - EPG contains 7 days of data and updated every day
 
